@@ -12,3 +12,4 @@ Training repository to learn about git/GitHub during week 1, day 1
 [links] (http://nceas.ucsb.edu)
 
 math <- 3 * 2
+math2 <- math * 5
