@@ -6,5 +6,9 @@ Training repository to learn about git/GitHub during week 1, day 1
 - fruit 1
 - fruit 2
 - fruit 3
+- strawberries
+- pineapple
 
 [links] (http://nceas.ucsb.edu)
+
+math <- 3 * 2
